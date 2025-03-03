@@ -30,13 +30,18 @@ I'm currently learning about:
 ## 📫 Get in Touch
 
 - **Email:** [rokonujjamanreon@gmail.com](mailto:rokonujjamanreon@gmail.com)
-- **LinkedIn:** [Rokonujjaman Reon](https://www.linkedin.com/in/rokonujjamanreon)
-- **Twitter:** [@RokonujjamanR](https://twitter.com/RokonujjamanR)
-
+- **LinkedIn:** [Rokonujjaman Reon](https://www.linkedin.com/in/rokonuj-jaman-reon-169349228/)
+- **Twitter:** [@rionraaz](https://twitter.com/rionraaz)
+- **Portfolio:** [rokonujjamanreon profile](https://sites.google.com/view/rokonujjamanreon/about)
+- **Facebook:** [Rokonujjaman Reon](https://www.facebook.com/rionreigns.rionreigns)
+- **Instagram:** [@rion_reigns](https://www.instagram.com/rion_reigns/?hl=en)
+- **Medium:** [rionraaz](https://medium.com/@rionraaz)
+- **Discord:** [Rokonujjaman Reon](https://www.linkedin.com/in/rokonuj-jaman-reon-169349228/)
+  
 ## 🤝 Contribution
 
 I love collaborating on data analysis and visualization projects. If you have an interesting project or idea, feel free to reach out!
 
 ## 💬 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rokonujjamanreon) or follow me on [Twitter](https://twitter.com/RokonujjamanR) for updates on my projects and thoughts on data analysis and business intelligence.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rokonuj-jaman-reon-169349228/) or follow me on [Twitter](https://twitter.com/rionraaz) for updates on my projects and thoughts on data analysis and business intelligence.
