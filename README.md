@@ -1,8 +1,15 @@
-# Hi there, I'm Rokonujjaman Reon 👋
+![image alt](https://github.com/Reon482/Reon482/blob/476f81bbd275b481338e2b843301299f7dc6d656/My%20Banner.jpg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=RokonujjamanReon&color=blue)
+<h1 align="center">Hi 👋, I'm Rokonujjaman Reon</h1>
+<h3 align="center">Aspiring Data Analyst | Statistician | BI Analyst </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RokonujjamanReon&label=Profile%20views&color=0e75b6&style=flat" alt="RokonujjamanReon" /> </p>
 
 Welcome to my GitHub profile! I'm an aspiring data analyst, statistician, and BI Analyst with a passion for uncovering insights through data. I enjoy working with various tools and programming languages to analyze and visualize data.
+
+
+- 📄 **Know about my experiences** : [Resume](https://drive.google.com/file/d/1Ujx11pfdBicmpWHsOrMqZZeoRlmoeLhq/view?usp=sharing)
+
 
 ## 🔧 Technologies & Tools
 
